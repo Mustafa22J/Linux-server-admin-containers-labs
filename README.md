@@ -153,6 +153,24 @@ Each note is written in my own words and focuses on what I configured and why, n
 
 Academic Integrity & Copyright
 
+## Linux Network Services (CST8246)
+
+This section contains my work from Linux Network Service Administration.
+
+### Highlights:
+- Apache Web Server (Virtual Hosts + SSL)
+- Postfix Mail Server
+- LDAP Directory Services
+- Samba & NFS File Sharing
+- Full SBA Automation Project
+
+### Structure:
+- sba-linux-services/ → Full project implementation
+- labs-summary/ → Lab summaries and concepts
+- scripts/ → Automation scripts
+
+> Note: Instructor lab PDFs are not included. Only my own work, scripts, and summaries are published.
+
 All official lab instructions, PDFs, and Brightspace content stay on Brightspace – they are not included in this repository.
 
 Only my own work (configs, scripts, notes, screenshots, reports) is uploaded here.
