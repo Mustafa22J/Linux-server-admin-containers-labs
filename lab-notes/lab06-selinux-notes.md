@@ -1,44 +1,26 @@
-# \# LAB06 – SELinux Notes
+# LAB06 – SELinux Notes
 
-# 
+## Objective
 
-# \## Objective
+Explore SELinux security contexts and basic SELinux administration.
 
-# Explore SELinux security contexts and basic SELinux administration.
+## Commands / Tools Used
 
-# 
+- semanage
+- sestatus
+- getenforce
+- chcon
 
-# \## Commands / Tools Used
+## What I configured
 
-# \- semanage
+- Viewed SELinux contexts
+- Checked enforcing/permissive mode
 
-# \- sestatus
+## What I learned
 
-# \- getenforce
+- What SELinux protects
+- Context-based access control
 
-# \- chcon
+---
 
-# 
-
-# \## What I configured
-
-# \- Viewed SELinux contexts
-
-# \- Checked enforcing/permissive mode
-
-# 
-
-# \## What I learned
-
-# \- What SELinux protects
-
-# \- Context-based access control
-
-# 
-
-# ---
-
-# \_Lab done in-person following official course instructions.\_
-
-
-
+_Lab done in-person following official course instructions._

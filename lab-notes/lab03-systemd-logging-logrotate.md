@@ -1,50 +1,29 @@
-# \# LAB03 – systemd, Logging and Logrotate
+# LAB03 – systemd, Logging and Logrotate
 
-# 
+## Objective
 
-# \## Objective
+Use systemd services, service timers, journald logs and log rotation.
 
-# Use systemd services, service timers, journald logs and log rotation.
+## Commands / Tools Used
 
-# 
+- systemctl status
+- journalctl
+- timedatectl
+- logrotate
 
-# \## Commands / Tools Used
+## What I configured
 
-# \- systemctl status
+- Created a systemd service
+- Enabled and started services
+- Configured persistent journal logs
+- Set up log rotation rules
 
-# \- journalctl
+## What I learned
 
-# \- timedatectl
+- How Linux services start
+- How journald logging works
+- Service timers and automation
 
-# \- logrotate
+---
 
-# 
-
-# \## What I configured
-
-# \- Created a systemd service
-
-# \- Enabled and started services
-
-# \- Configured persistent journal logs
-
-# \- Set up log rotation rules
-
-# 
-
-# \## What I learned
-
-# \- How Linux services start
-
-# \- How journald logging works
-
-# \- Service timers and automation
-
-# 
-
-# ---
-
-# \_Lab done in-person following official course instructions.\_
-
-
-
+_Lab done in-person following official course instructions._

@@ -1,44 +1,26 @@
-# \# LAB08 – FreeCIV Container
+# LAB08 – FreeCIV Container
 
-# 
+## Objective
 
-# \## Objective
+Launch a FreeCIV container and interact with the web interface.
 
-# Launch a FreeCIV container and interact with the web interface.
+## Commands / Tools Used
 
-# 
+- podman search
+- podman run
+- browser access
 
-# \## Commands / Tools Used
+## What I configured
 
-# \- podman search
+- Ran freeciv container
+- Connected in browser
+- Played a few turns
 
-# \- podman run
+## What I learned
 
-# \- browser access
+- App containers with web interfaces
+- Exposing container ports
 
-# 
+---
 
-# \## What I configured
-
-# \- Ran freeciv container
-
-# \- Connected in browser
-
-# \- Played a few turns
-
-# 
-
-# \## What I learned
-
-# \- App containers with web interfaces
-
-# \- Exposing container ports
-
-# 
-
-# ---
-
-# \_Lab done in-person following official course instructions.\_
-
-
-
+_Lab done in-person following official course instructions._

@@ -1,50 +1,29 @@
-# \# LAB04 – Networking and Pacman
+# LAB04 – Networking and Pacman
 
-# 
+## Objective
 
-# \## Objective
+Configure networking inside a container and install software using pacman.
 
-# Configure networking inside a container and install software using pacman.
+## Commands / Tools Used
 
-# 
+- ip a
+- ping
+- pacman -S
+- pacman -R
+- traceroute
 
-# \## Commands / Tools Used
+## What I configured
 
-# \- ip a
+- Verified container network
+- Tested external connectivity
+- Installed packages and tools
 
-# \- ping
+## What I learned
 
-# \- pacman -S
+- Basic network troubleshooting
+- Package installation/removal
+- Understanding container networking
 
-# \- pacman -R
+---
 
-# \- traceroute
-
-# 
-
-# \## What I configured
-
-# \- Verified container network
-
-# \- Tested external connectivity
-
-# \- Installed packages and tools
-
-# 
-
-# \## What I learned
-
-# \- Basic network troubleshooting
-
-# \- Package installation/removal
-
-# \- Understanding container networking
-
-# 
-
-# ---
-
-# \_Lab done in-person following official course instructions.\_
-
-
-
+_Lab done in-person following official course instructions._
