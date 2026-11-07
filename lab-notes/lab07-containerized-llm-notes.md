@@ -1,40 +1,24 @@
-# \# LAB07 – Containerized LLM
+# LAB07 – Containerized LLM
 
-# 
+## Objective
 
-# \## Objective
+Run a containerized LLM using Podman Desktop.
 
-# Run a containerized LLM using Podman Desktop.
+## Commands / Tools Used
 
-# 
+- podman pull
+- podman run
 
-# \## Commands / Tools Used
+## What I configured
 
-# \- podman pull
+- Pulled LLM container
+- Ran a containerized AI model
 
-# \- podman run
+## What I learned
 
-# 
+- How LLM images run in containers
+- Basic container interaction
 
-# \## What I configured
+---
 
-# \- Pulled LLM container
-
-# \- Ran a containerized AI model
-
-# 
-
-# \## What I learned
-
-# \- How LLM images run in containers
-
-# \- Basic container interaction
-
-# 
-
-# ---
-
-# \_Lab done in-person following official course instructions.\_
-
-
-
+_Lab done in-person following official course instructions._
